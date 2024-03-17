@@ -14,3 +14,8 @@ Project Python For Data Sciences
 ## Type :
 - ipynb
 
+## Dataset :
+- https://www.kaggle.com/datasets/ermila/klasifikasi-tingkat-kemiskinan-di-indonesia
+ 
+## Code :
+- https://www.kaggle.com/code/ermila/code-klasifikasi-kemiskinan
