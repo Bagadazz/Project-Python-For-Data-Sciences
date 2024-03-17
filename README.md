@@ -14,6 +14,14 @@ Project Python For Data Sciences
 ## Type :
 - ipynb
 
+## Use :
+- Pandas
+- Sklearn
+
+## Content :
+- Histogram
+- Prediction
+
 ## Dataset :
 - https://www.kaggle.com/datasets/ermila/klasifikasi-tingkat-kemiskinan-di-indonesia
  
